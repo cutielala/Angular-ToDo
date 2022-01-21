@@ -51,3 +51,10 @@ C:\Users\cutie\Git\source\repos\DATINGAPP\API\bin\Debug\net6.0\runtimes\win-x64\
 C:\Users\cutie\Git\source\repos\DATINGAPP\API\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\cutie\Git\source\repos\DATINGAPP\API\bin\Debug\net6.0\Humanizer.dll
 C:\Users\cutie\Git\source\repos\DATINGAPP\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cutie\Git\source\repos\DATINGAPP\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cutie\Git\source\repos\DATINGAPP\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\cutie\Git\source\repos\DATINGAPP\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cutie\Git\source\repos\DATINGAPP\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cutie\Git\source\repos\DATINGAPP\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\cutie\Git\source\repos\DATINGAPP\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cutie\Git\source\repos\DATINGAPP\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
