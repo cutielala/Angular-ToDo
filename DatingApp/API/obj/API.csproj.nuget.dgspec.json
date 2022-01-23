@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cutie\\Git\\source\\repos\\DATINGAPP\\API\\API.csproj": {}
+    "C:\\Users\\cutie\\Git\\source\\repos\\DATINGAPP\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cutie\\Git\\source\\repos\\DATINGAPP\\API\\API.csproj": {
+    "C:\\Users\\cutie\\Git\\source\\repos\\DATINGAPP\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cutie\\Git\\source\\repos\\DATINGAPP\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\cutie\\Git\\source\\repos\\DATINGAPP\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\cutie\\Git\\source\\repos\\DATINGAPP\\API\\API.csproj",
+        "projectPath": "C:\\Users\\cutie\\Git\\source\\repos\\DATINGAPP\\api\\API.csproj",
         "packagesPath": "C:\\Users\\cutie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cutie\\Git\\source\\repos\\DATINGAPP\\API\\obj\\",
+        "outputPath": "C:\\Users\\cutie\\Git\\source\\repos\\DATINGAPP\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cutie\\AppData\\Roaming\\NuGet\\NuGet.Config",
