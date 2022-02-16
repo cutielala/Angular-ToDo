@@ -66,9 +66,9 @@ namespace API
 
 
            // app.UseCors(x => x.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://1ocalhost:4200"));
-
-            app.UseAuthorization();
             app.UseAuthentication();
+            app.UseAuthorization();
+           
 
             app.UseEndpoints(endpoints =>
             {
